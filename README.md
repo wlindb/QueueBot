@@ -8,7 +8,7 @@ Bot to automate the process of queueing at [KTH lab queue](https://queue.csc.kth
     username = '<KTH_username_here>'
     pw = '<KTH_password_here>'
     ```
-- run 
+- Run 
     ```
     $ pip install selenium
     ```

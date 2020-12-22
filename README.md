@@ -15,6 +15,6 @@ Bot to automate the process of queueing at [KTH lab queue](https://queue.csc.kth
 ## How to run the bot
 - Run
     ```
-    $ python main.py <course_id> <your_location> <comment> <1 if you want to prensent 0 otherwise>
+    $ python main.py <course_id> <your_location> <comment> <1 if you want to present 0 otherwise>
     ```
 Note that the course id is case sensitive and has to match the actual name of the course on https://queue.csc.kth.se/Queue/<course_id>.
